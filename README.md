@@ -20,3 +20,5 @@ o comando a cima irá produzir a seguinte saída no console!
 
 >marcos tem 48 anos de idade
 
+## trabalhando com arrays e objetos
+## trabalhando com prompt e a condição IF ELSE
