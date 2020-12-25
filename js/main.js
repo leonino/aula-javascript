@@ -1,3 +1,23 @@
+
+var data = new Date();
+console.log("Data " + data.toISOString());
+console.log("Ano: "+ data.getFullYear());
+console.log("Horas: "+data.getHours());
+console.log("Dia: "+data.getDay());
+
+/*
+for (let count = 1; count <= 5; count++) {
+  console.log(count);
+
+}
+*/
+/*
+var5
+whconsole.log(count);console.log(count);
+  count++;
+};
+*/
+/*
 var idade = prompt("Qual a sua idade?");
 if(idade >= 18) {
   alert("Você é maior de idade!")
@@ -5,7 +25,7 @@ if(idade >= 18) {
   alert("Você considerado de menor!!")
 };
 
-
+*/
 /*
 var frutas = []
 var fruta1 = {"nome":"Maçã","Cor": "vermelha"}
